@@ -16,7 +16,7 @@ The main objectives of this analytics challenge are:
 
 4. **Business Insights**: Provide actionable insights for RideWave's business operations based on the analysis.
 
-## 📁 Dataset Information
+##  Dataset Information
 
 ### Data Sources
 - **Training Data**: `train.csv` - Historical fare data with 63,015 records
@@ -43,7 +43,7 @@ The dataset contains the following key features:
 - **Autos**: Three-wheeled vehicles  
 - **Cars**: Four-wheeled vehicles
 
-## 🔍 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Converted timestamp to datetime format
@@ -67,7 +67,7 @@ The dataset contains the following key features:
 - **Feature Engineering**: Created time-based features and transformations
 - **Cross-validation**: Ensured robust model performance
 
-## 📈 Key Findings
+##  Key Findings
 
 ### Fare Trends by Vehicle Type
 - **Cars**: Showed increasing linear trend over time
@@ -84,7 +84,7 @@ The dataset contains the following key features:
 - Seasonal and trend components significantly influence fare predictions
 - Driver availability and traffic conditions impact fare dynamics
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**: Primary programming language
 - **Pandas**: Data manipulation and analysis
@@ -96,7 +96,7 @@ The dataset contains the following key features:
 - **Jupyter Notebook**: Interactive development environment
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.7+
@@ -111,7 +111,7 @@ The dataset contains the following key features:
    ```
 3. Open the Jupyter notebook and run the analysis
 
-## 📊 Results
+##  Results
 
 The project successfully:
 - ✅ Completed comprehensive exploratory data analysis
@@ -120,11 +120,11 @@ The project successfully:
 - ✅ Provided business insights for RideWave operations
 - ✅ Achieved hackathon objectives and requirements
 
-## 👥 Team
+## Team
 
 This project was completed as part of the Data Analytics Hackathon-2 by team 2-room302-256-425-443-444.
 
-## 📝 License
+## License
 
 This project is part of an academic hackathon challenge.
 
